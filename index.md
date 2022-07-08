@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+  <h1>Luan Rolim Netto</h1>
 
-You can use the [editor on GitHub](https://github.com/luanrolimnetto/curriculo-html/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+                  CONTATO 
+        Data de nascimento: 10/10/2002
+        Rua: Gonçalves Dias, nº1330, casa,
+        Jd. Cerejeiras–Atibaia/SP
+        (11) 9 9723-4666 (11) 9 9878-6130 (recado, Paula)
+        lurolimnetto@gmail.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+        
+                  OBJETIVO
 
-### Markdown
+        Trabalhar com programaçâo
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+              CARACTERÍSTICAS
 
-# Header 1
-## Header 2
-### Header 3
+        Comunicativo, dinâmico e organizado;
+        Responsável, carismático, pontual.
+        
 
-- Bulleted
-- List
+              FORMAÇÃO ACADÊMICA
 
-1. Numbered
-2. List
+        Ensino Médio Completo 
+        E.E José Alvim
+        Ano de conclusão: 2020
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+             EXPERIÊNCIA PROFISSIONAL
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+        Empresa: Mixter Atacadista
+        Cargo: Operador de loja
+        Período:Cinco meses
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/luanrolimnetto/curriculo-html/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+             ATIVIDADES NÃO FORMALIZADAS 
 
-### Support or Contact
+        Empresa: Posto Balneário
+        Cargo: Frentista/caixa
+        Período: 01 mês 
+        
+        Empresa: Posto Balneário 
+        Cargo: Lavadora de carros
+        Período: setembro/2019 até agosto/2021
+        
+        Empresa: Autônomo 
+        Cargo: Diarista
+        Período: 03 meses
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+            EXTRACURRICULARES
+
+        EXCEL AVANÇADO -- 100h Prepara Cursos Atibaia
+        Concluído em novembro de 2021 Módulos: Word, Excel, Excel Avançado I e II e Power Point.
+        HTML5 -- 6,5hs Udemy
+
